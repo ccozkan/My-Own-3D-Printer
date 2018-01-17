@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="175mm" width="405mm" >
+ <g style="fill-opacity:1.0; stroke:black; stroke-width:1;">
+  <line x1="0.000000mm" y1="0.000000mm" x2="0.000000mm" y2="0.000000mm" />
+  <line x1="0.000000mm" y1="0.000000mm" x2="0.000000mm" y2="164.500000mm" />
+  <line x1="0.000000mm" y1="164.500000mm" x2="395.000000mm" y2="164.500000mm" />
+  <line x1="395.000000mm" y1="164.500000mm" x2="395.000000mm" y2="0.000000mm" />
+  <line x1="395.000000mm" y1="0.000000mm" x2="0.000000mm" y2="0.000000mm" />
+  <circle cx="8.200096mm" cy="30.920172mm" r="1.000172mm" fill="none"/>
+  <line x1="10.200440mm" y1="30.920172mm" x2="6.199751mm" y2="30.920172mm" />
+  <line x1="8.200096mm" y1="28.919828mm" x2="8.200096mm" y2="32.920516mm" />
+  <text x="9mm" y="29mm" font-size="24">
+   2.0
+  </text>
+  <circle cx="8.200096mm" cy="9.700172mm" r="1.000172mm" fill="none"/>
+  <line x1="10.200440mm" y1="9.700172mm" x2="6.199751mm" y2="9.700172mm" />
+  <line x1="8.200096mm" y1="7.699828mm" x2="8.200096mm" y2="11.700516mm" />
+  <text x="9mm" y="8mm" font-size="24">
+   2.0
+  </text>
+  <circle cx="26.099970mm" cy="156.300012mm" r="1.000005mm" fill="none"/>
+  <line x1="28.099980mm" y1="156.300012mm" x2="24.099960mm" y2="156.300012mm" />
+  <line x1="26.099970mm" y1="154.300002mm" x2="26.099970mm" y2="158.300022mm" />
+  <text x="27mm" y="155mm" font-size="24">
+   2.0
+  </text>
+  <circle cx="47.319970mm" cy="156.300012mm" r="1.000005mm" fill="none"/>
+  <line x1="49.319980mm" y1="156.300012mm" x2="45.319960mm" y2="156.300012mm" />
+  <line x1="47.319970mm" y1="154.300002mm" x2="47.319970mm" y2="158.300022mm" />
+  <text x="48mm" y="155mm" font-size="24">
+   2.0
+  </text>
+  <circle cx="56.250019mm" cy="141.850019mm" r="2.199964mm" fill="none"/>
+  <line x1="60.649947mm" y1="141.850019mm" x2="51.850091mm" y2="141.850019mm" />
+  <line x1="56.250019mm" y1="137.450091mm" x2="56.250019mm" y2="146.249947mm" />
+  <text x="58mm" y="139mm" font-size="24">
+   4.4
+  </text>
+  <circle cx="56.250019mm" cy="70.350019mm" r="2.199964mm" fill="none"/>
+  <line x1="60.649947mm" y1="70.350019mm" x2="51.850091mm" y2="70.350019mm" />
+  <line x1="56.250019mm" y1="65.950091mm" x2="56.250019mm" y2="74.749947mm" />
+  <text x="58mm" y="68mm" font-size="24">
+   4.4
+  </text>
+  <circle cx="91.999944mm" cy="106.100033mm" r="37.499937mm" fill="none"/>
+  <line x1="166.999818mm" y1="106.100033mm" x2="17.000070mm" y2="106.100033mm" />
+  <line x1="91.999944mm" y1="31.100159mm" x2="91.999944mm" y2="181.099907mm" />
+  <text x="129mm" y="68mm" font-size="24">
+   75.0
+  </text>
+  <circle cx="127.749998mm" cy="141.850067mm" r="2.200127mm" fill="none"/>
+  <line x1="132.150252mm" y1="141.850067mm" x2="123.349744mm" y2="141.850067mm" />
+  <line x1="127.749998mm" y1="137.449813mm" x2="127.749998mm" y2="146.250321mm" />
+  <text x="129mm" y="139mm" font-size="24">
+   4.4
+  </text>
+  <circle cx="127.749998mm" cy="70.350067mm" r="2.200127mm" fill="none"/>
+  <line x1="132.150252mm" y1="70.350067mm" x2="123.349744mm" y2="70.350067mm" />
+  <line x1="127.749998mm" y1="65.949813mm" x2="127.749998mm" y2="74.750321mm" />
+  <text x="129mm" y="68mm" font-size="24">
+   4.4
+  </text>
+  <circle cx="294.511467mm" cy="75.600011mm" r="0.999994mm" fill="none"/>
+  <line x1="296.511455mm" y1="75.600011mm" x2="292.511479mm" y2="75.600011mm" />
+  <line x1="294.511467mm" y1="73.600023mm" x2="294.511467mm" y2="77.599999mm" />
+  <text x="295mm" y="74mm" font-size="24">
+   2.0
+  </text>
+  <circle cx="323.080078mm" cy="156.500073mm" r="2.999982mm" fill="none"/>
+  <line x1="329.080042mm" y1="156.500073mm" x2="317.080114mm" y2="156.500073mm" />
+  <line x1="323.080078mm" y1="150.500109mm" x2="323.080078mm" y2="162.500036mm" />
+  <text x="326mm" y="153mm" font-size="24">
+   6.0
+  </text>
+  <circle cx="334.579873mm" cy="157.500018mm" r="1.999985mm" fill="none"/>
+  <line x1="338.579844mm" y1="157.500018mm" x2="330.579903mm" y2="157.500018mm" />
+  <line x1="334.579873mm" y1="153.500048mm" x2="334.579873mm" y2="161.499989mm" />
+  <text x="336mm" y="155mm" font-size="24">
+   4.0
+  </text>
+  <circle cx="347.680479mm" cy="156.299934mm" r="1.000050mm" fill="none"/>
+  <line x1="349.680578mm" y1="156.299934mm" x2="345.680380mm" y2="156.299934mm" />
+  <line x1="347.680479mm" y1="154.299835mm" x2="347.680479mm" y2="158.300033mm" />
+  <text x="348mm" y="155mm" font-size="24">
+   2.0
+  </text>
+  <circle cx="368.900479mm" cy="156.299934mm" r="1.000050mm" fill="none"/>
+  <line x1="370.900578mm" y1="156.299934mm" x2="366.900380mm" y2="156.299934mm" />
+  <line x1="368.900479mm" y1="154.299835mm" x2="368.900479mm" y2="158.300033mm" />
+  <text x="369mm" y="155mm" font-size="24">
+   2.0
+  </text>
+ </g>
+</svg>
